@@ -1,0 +1,5 @@
+E:\PlayGround\NETPG\Misc\DummyLib\bin\Debug\DummyLib.dll
+E:\PlayGround\NETPG\Misc\DummyLib\bin\Debug\DummyLib.pdb
+E:\PlayGround\NETPG\Misc\DummyLib\obj\Debug\DummyLib.csprojResolveAssemblyReference.cache
+E:\PlayGround\NETPG\Misc\DummyLib\obj\Debug\DummyLib.dll
+E:\PlayGround\NETPG\Misc\DummyLib\obj\Debug\DummyLib.pdb
