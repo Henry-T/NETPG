@@ -1,0 +1,9 @@
+E:\PlayGround\NETPG\WinForms\WebBrowser\bin\Debug\WebBrowser.exe.config
+E:\PlayGround\NETPG\WinForms\WebBrowser\bin\Debug\WebBrowser.exe
+E:\PlayGround\NETPG\WinForms\WebBrowser\bin\Debug\WebBrowser.pdb
+E:\PlayGround\NETPG\WinForms\WebBrowser\obj\Debug\WebBrowser.csprojResolveAssemblyReference.cache
+E:\PlayGround\NETPG\WinForms\WebBrowser\obj\Debug\WebBrowser.Form1.resources
+E:\PlayGround\NETPG\WinForms\WebBrowser\obj\Debug\WebBrowser.Properties.Resources.resources
+E:\PlayGround\NETPG\WinForms\WebBrowser\obj\Debug\WebBrowser.csproj.GenerateResource.Cache
+E:\PlayGround\NETPG\WinForms\WebBrowser\obj\Debug\WebBrowser.exe
+E:\PlayGround\NETPG\WinForms\WebBrowser\obj\Debug\WebBrowser.pdb
